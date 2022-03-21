@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CDevv
 - 👀 I’m interested in C#, JS, HTML, CSS, Lua
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on.. idk
+- 🌱 I’m currently learning C#, JS, React
 - 📫 How to reach me:
 -- Discord: CDev#5737
 -- Reddit: u/Detective-Next
