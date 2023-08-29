@@ -2,7 +2,7 @@
 - 👀 I’m interested in C#, JS, HTML, CSS, Lua
 - 🌱 I’m currently learning C#, JS, React
 - 📫 How to reach me:
-- - Discord: CDev#5737
+- - Discord: cdevv
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CDevv)](https://github.com/anuraghazra/github-readme-stats)
 
