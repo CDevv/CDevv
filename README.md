@@ -4,6 +4,7 @@
 - 📫 How to reach me:
 - - Discord: cdevv
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CDevv)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CDevv)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
